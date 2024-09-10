@@ -322,6 +322,7 @@ header .navbar.sticky-header{
 
 .btn-download{
 	display: inline-block;
+	align-content: center;
 	border: 2px solid #fff;
 	padding: 14px 30px;
 	border-radius: 4px;
