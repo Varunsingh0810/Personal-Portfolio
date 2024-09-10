@@ -1655,7 +1655,7 @@ header .navbar.sticky-header{
 	}
 	
 	.banner{
-		background-position: top right;
+		background: none;
 	}
 	
 	.section-title{
